@@ -1,0 +1,16 @@
+<?php
+	$opcao = 4;
+	
+	switch($opcao){
+		case 1:
+			echo "Opção número 1";
+			break;
+		case 2:
+			echo "Opção número 2";
+				break;
+		case 3:
+			echo "Opção número 3";
+					break;
+		default:
+			echo "Opção inválida";
+	}
