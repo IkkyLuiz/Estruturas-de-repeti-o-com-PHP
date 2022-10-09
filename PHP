@@ -1,5 +1,5 @@
 <?php
-	$opcao = 4;
+	$opcao = 1;
 	
 	switch($opcao){
 		case 1:
